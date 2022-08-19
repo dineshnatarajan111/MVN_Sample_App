@@ -1,0 +1,6 @@
+projectKey=MVN_WEB_APP_1
+serverUrl=http://localhost:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://localhost:9000/dashboard?id=MVN_WEB_APP_1
+ceTaskId=AYK11U1tCGFCcFnXCbXV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYK11U1tCGFCcFnXCbXV
