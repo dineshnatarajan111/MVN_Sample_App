@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("build"){
       steps{
-        mvn clean
+        bat "mvn package"
       }
     }
     stage("test"){
